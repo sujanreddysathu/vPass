@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">82d1a5bfdb3c001090866a49489619c0</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">02d1a5bfdb3c001090866a49489619be</icon>
+        <label>VPass Launcher Button Instance</label>
+        <location>top</location>
+        <name>VPass Launcher Button Instance</name>
+        <order/>
+        <parent>26de917bdb3c001090866a49489619cb</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:30:15</sys_created_on>
+        <sys_id>4ad1a5bfdb3c001090866a49489619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VPass Launcher Button Instance</sys_name>
+        <sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4ad1a5bfdb3c001090866a49489619c2</sys_update_name>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:30:15</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=4ad1a5bfdb3c001090866a49489619c2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vpass">707e193bdb3c001090866a49489619a7</application>
+        <file_path/>
+        <instance_id>de9a9906db4bdf0489535d00cf961938</instance_id>
+        <instance_name>dev63516</instance_name>
+        <name>sys_sg_button_instance_4ad1a5bfdb3c001090866a49489619c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">82d1a5bfdb3c001090866a49489619c0</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">02d1a5bfdb3c001090866a49489619be</icon><label>VPass Launcher Button Instance</label><location>top</location><name>VPass Launcher Button Instance</name><order/><parent>26de917bdb3c001090866a49489619cb</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admsudheer</sys_created_by><sys_created_on>2019-11-05 16:30:15</sys_created_on><sys_id>4ad1a5bfdb3c001090866a49489619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>VPass Launcher Button Instance</sys_name><sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package><sys_policy/><sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope><sys_update_name>sys_sg_button_instance_4ad1a5bfdb3c001090866a49489619c2</sys_update_name><sys_updated_by>admsudheer</sys_updated_by><sys_updated_on>2019-11-05 16:30:15</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=4ad1a5bfdb3c001090866a49489619c2"/></record_update>]]></payload>
+        <payload_hash>-1710369973</payload_hash>
+        <record_name>VPass Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>7c7e193bdb3c001090866a49489619a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:30:15</sys_created_on>
+        <sys_id>cad1a5bfdb3c001090866a49489619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e3c67067d0000001</sys_recorded_at>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:30:15</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>06d1a5bf5a3c001029caa169ff6cf3c4</update_guid>
+        <update_guid_history>06d1a5bf5a3c001029caa169ff6cf3c4:-1710369973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:31:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>6b1be921c51849d6b3ce79a08dcecb44</sys_id>
+        <sys_metadata>4ad1a5bfdb3c001090866a49489619c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VPass Launcher Button Instance</sys_name>
+        <sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope>
+        <sys_scope_delete display_value="">31edc2814e3b439697023dfbc3962dd1</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_4ad1a5bfdb3c001090866a49489619c2</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_4ad1a5bfdb3c001090866a49489619c2">cad1a5bfdb3c001090866a49489619c4</sys_update_version>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:31:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

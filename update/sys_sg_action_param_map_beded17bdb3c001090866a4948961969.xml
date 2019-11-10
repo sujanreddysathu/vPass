@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Badging)">f6ded17bdb3c001090866a4948961942</button>
+        <item_parameter display_value="Badging purpose_of_visit">b6ded17bdb3c001090866a494896193d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:17:11</sys_created_on>
+        <sys_id>beded17bdb3c001090866a4948961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b6ded17bdb3c001090866a494896193d</sys_name>
+        <sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_beded17bdb3c001090866a4948961969</sys_update_name>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:17:11</sys_updated_on>
+        <ui_parameter display_value="Purpose of Visit">3aded17bdb3c001090866a494896194d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

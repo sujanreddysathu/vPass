@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Visitor pass Badging</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">2ede917bdb3c001090866a49489619c9</icon>
+        <name>Badgings</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:17:10</sys_created_on>
+        <sys_id>aede917bdb3c001090866a49489619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Badgings</sys_name>
+        <sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope>
+        <sys_update_name>sys_sg_list_screen_aede917bdb3c001090866a49489619d3</sys_update_name>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:17:10</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=aede917bdb3c001090866a49489619d3"/>
+</record_update>

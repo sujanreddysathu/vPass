@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","FontColor":"#2e2e2e","Value":"e935","Name":"icon-Cart","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:29:55</sys_created_on>
+        <sys_id>d9c165bfdb3c001090866a4948961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope>
+        <sys_update_name>sys_sg_icon_d9c165bfdb3c001090866a4948961964</sys_update_name>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:29:55</sys_updated_on>
+        <type>user</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vpass">707e193bdb3c001090866a49489619a7</application>
+        <file_path/>
+        <instance_id>de9a9906db4bdf0489535d00cf961938</instance_id>
+        <instance_name>dev63516</instance_name>
+        <name>sys_sg_icon_d9c165bfdb3c001090866a4948961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","FontColor":"#2e2e2e","Value":"e935","Name":"icon-Cart","type":"user"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admsudheer</sys_created_by><sys_created_on>2019-11-05 16:29:55</sys_created_on><sys_id>d9c165bfdb3c001090866a4948961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package><sys_policy/><sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope><sys_update_name>sys_sg_icon_d9c165bfdb3c001090866a4948961964</sys_update_name><sys_updated_by>admsudheer</sys_updated_by><sys_updated_on>2019-11-05 16:29:55</sys_updated_on><type>user</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>-293664751</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>7c7e193bdb3c001090866a49489619a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:29:55</sys_created_on>
+        <sys_id>99c165bfdb3c001090866a4948961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e3c66b9e20000001</sys_recorded_at>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:29:55</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>d1c165bf813c0010dc8fd346869e3266</update_guid>
+        <update_guid_history>d1c165bf813c0010dc8fd346869e3266:-293664751</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admsudheer</sys_created_by>
+        <sys_created_on>2019-11-05 16:30:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>5ca3235c90014180a33174fdf39c4000</sys_id>
+        <sys_metadata>d9c165bfdb3c001090866a4948961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Vpass" source="x_421464_vpass">707e193bdb3c001090866a49489619a7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vpass">707e193bdb3c001090866a49489619a7</sys_scope>
+        <sys_scope_delete display_value="">31edc2814e3b439697023dfbc3962dd1</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_d9c165bfdb3c001090866a4948961964</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_d9c165bfdb3c001090866a4948961964">99c165bfdb3c001090866a4948961966</sys_update_version>
+        <sys_updated_by>admsudheer</sys_updated_by>
+        <sys_updated_on>2019-11-05 16:30:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
